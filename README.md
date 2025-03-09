@@ -1,9 +1,13 @@
-# High-Speed Storage & Cloud Security System
+# Next-Gen Ultra High-Speed Storage Cloud Security System
 
-## GitHub Reposi
-tory: High-Speed Cloud Storage & Security
+## Description
 
-### Key Features:
+A high-speed storage cloud security system for all devices.
+
+## GitHub Repository: High-Speed Cloud Storage & Security
+
+### Key Features
+
 - 250GB Storage on any hard drive
 - 20GB RAM Optimization
 - 300 FPS Realistic Dimension Graphics Engine
@@ -14,24 +18,47 @@ tory: High-Speed Cloud Storage & Security
 - Licensing and Fraud Protection System
 
 ## Installation
+
+To install the dependencies, run:
+
+```sh
+npm install
+```
+
 1. Clone this repository:
+
    ```bash
    git clone https://github.com/your-username/high-speed-storage-security.git
    ```
+
 2. Navigate to the project folder:
+
    ```bash
    cd high-speed-storage-security
    ```
+
 3. Install dependencies:
+
    ```bash
    pip install -r requirements.txt
    ```
+
 4. Run the system:
+
    ```bash
    python main.py
    ```
 
+## Usage
+
+To run the tests, use:
+
+```sh
+npm test
+```
+
 ## Code Implementation
+
 ```python
 import os
 import psutil
@@ -86,10 +113,13 @@ if __name__ == "__main__":
 ```
 
 ## License
-This project is protected under legal licensing to prevent fraud and unauthorized use. Please read the LICENSE file for details.
+
+This project is licensed under the ISC License.
 
 ## Contribution
+
 Feel free to contribute by submitting pull requests. Ensure your changes align with the project’s goals before submitting.
 
 ## Contact
-For inquiries or support, contact jasonpinnock97@gmail.com.
+
+For inquiries or support, contact [jasonpinnock97@gmail.com](mailto:jasonpinnock97@gmail.com).
